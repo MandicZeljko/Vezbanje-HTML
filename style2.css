@@ -1,0 +1,27 @@
+.main{
+    background-color: #334;
+    color: #fff; 
+    font-family:sans-serif
+}
+ h1{
+    font-size: 300%;
+    color:  #fea; 
+    font-variant: small-caps;
+}
+ol{
+    font-size:1.2em; 
+    font-family:sans-serif; 
+    font-style:italic;
+}
+.skils p1{
+    text-transform: uppercase;
+}
+.html span{
+    background-color: #557;
+}
+.css span{
+    background-color: #557
+}
+.css p{
+    text-align: center
+}

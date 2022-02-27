@@ -1,0 +1,54 @@
+.main{
+    background-color:#eee ;
+    font-family:sans-serif;
+    color: rgb(33, 33, 204); 
+    width: 80%; 
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+  
+    
+
+}
+
+.train span{
+    background-color:rgb(0, 255, 34)
+}
+.title h1{
+    text-align: center;
+    width: 100%; 
+    position: ceter;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;    
+    margin: auto;
+    font-size: 28pt;
+    border-style: solid;    
+    border-width: thick 8px;
+    color: white;
+    background-color: black;
+
+}
+i {
+    font-size: 14pt;
+    color: teal;
+    font-family: sans-serif;
+}
+.picture img {  
+    text-align: center;
+    border-style: ridge;    
+    border-width: thick 8px;
+    border-color:  black ;
+
+}
+.train_time ul{
+    border-style: solid;    
+    border-width: thick 1px;
+    border-color:  black ;
+    background-color: rgb(75, 167, 105);
+    color: rgb(128, 0, 60);
+}
